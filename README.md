@@ -1,5 +1,7 @@
 # Cinema Website Project
 
+### live-link: https://nikolaykozlovaitu.github.io/Cinema_Website/
+
 ## Overview
 This is a multi-page responsive website created for a cinema project. The site allows users to browse movies, check ticket prices, view screening schedules, learn about cinema features, and book tickets online.
 
